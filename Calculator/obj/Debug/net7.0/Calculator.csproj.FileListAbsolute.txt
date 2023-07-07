@@ -1,0 +1,15 @@
+/Users/jwise/L_C#/Fundamentals/Calculator/bin/Debug/net7.0/Calculator
+/Users/jwise/L_C#/Fundamentals/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/jwise/L_C#/Fundamentals/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/jwise/L_C#/Fundamentals/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/jwise/L_C#/Fundamentals/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/jwise/L_C#/Fundamentals/Calculator/obj/Debug/net7.0/ref/Calculator.dll
